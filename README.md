@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-![banner](res/banner.png)
+![banner](res/banner.jpg)
 
 Hi, I’m @sisungo!
 
