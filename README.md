@@ -1,4 +1,7 @@
 # Hi there! 👋
+
+![banner](res/banner.png)
+
 Hi, I’m @sisungo!
 
 I'm a high school student from China. Loves Open Source! ❤️
@@ -8,6 +11,7 @@ I'm a high school student from China. Loves Open Source! ❤️
  - ⚒️ **Languages**: [🦀 Rust](https://rust-lang.org)
  - 🎮 **Games**: [Minecraft](https://minecraft.net)
  - 🌟 **Interests**: System Programming
+ - 😉 You can call me "sisungo" or "沫凌"
 
 ## I am currently...
  - 🎯 I am busy preparing for Chinese National University Entrance Examination \(*Gao Kao*\). 
