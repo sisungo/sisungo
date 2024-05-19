@@ -7,11 +7,9 @@ Hi, I’m [@sisungo](https://github.com/sisungo)!
 I'm a high school student from China. Loves Open Source! ❤️
 
 ## Who am I?
- - 💙 **MBTI**: [INFP](https://www.16personalities.com/infp-personality)
  - ⚒️ **Languages**: [🦀 Rust](https://rust-lang.org)
  - 🎮 **Games**: [Minecraft](https://minecraft.net)
  - 🌟 **Interests**: System Programming
- - 😉 You can call me "sisungo" or "沫凌"
  - 🍭 Nice to meet you, and it would be awesome if you could like me
 
 ## I am currently...
