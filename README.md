@@ -1,7 +1,5 @@
 # Hi there! 👋
 
-![banner](res/banner.jpg)
-
 Hi, I’m [@sisungo](https://github.com/sisungo)!
 
 I'm a high school student from China. Loves Open Source! ❤️
