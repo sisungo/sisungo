@@ -11,7 +11,6 @@ I'm a high school student from China. Loves Open Source! ❤️
  - 🍭 Nice to meet you, and it would be awesome if you could like me
 
 ## I am currently...
- - 🎯 I am busy preparing for Chinese National University Entrance Examination \(*Gao Kao*\). 
  - 🔬 I am currently learning **Algorithms** by reading *Introduction to Algorithms - Third Edition*.
  - 💡 I plan to learn more programming languages in the future.
  - 💡 I plan to learn more about PLT and compilers in the future.
