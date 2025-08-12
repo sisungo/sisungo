@@ -19,8 +19,8 @@ I'm a high school graduate \(and after Sep. 6 a university student\) from China.
 ## Projects
  - [**airup**](https://github.com/sisungo/airup): Airup is a modern, portable and extremely fast implementation of service 
  supervisor and the init daemon.
- - [**airlog**](https://github.com/sisungo/airboot): 🚧 WIP 🚧 A lightweight, hackable, modular as well as powerful logging
- server, and also a framework.
+ - [**mactux**](https://github.com/sisungo/mactux): 🚧 WIP 🚧 A compatibility layer that emulates a Linux environment on macOS
+ without use of the Hypervisor.
 
 ## Experimental Projects
 My experimental projects may be put at [The `experiments` Repo](https://github.com/sisungo/experiments). If you like those
