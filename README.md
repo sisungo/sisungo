@@ -2,7 +2,7 @@
 
 Hi, I’m [@sisungo](https://github.com/sisungo)!
 
-I'm a Grade One university student from China. Loving Open Source! ❤️
+I'm a first-year university undergraduate from China. Loving Open Source! ❤️
 
 ## Who am I?
  - ⚒️ **Languages**: [🦀 Rust](https://rust-lang.org)
