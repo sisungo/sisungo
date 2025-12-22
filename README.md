@@ -9,11 +9,11 @@ I'm a first-year university undergraduate from China. Loving Open Source! ❤️
  - 🎮 **Games**: [Minecraft](https://minecraft.net)
  - 🌟 **Interests**: System Programming | Compilers
  - 🍭 Nice to meet you, and it would be awesome if you could like me
+ - 🌍 You can see my daily updates and technical blogs on [my blog](https://sisungo.github.io).
 
 ## I am currently...
  - 💡 I plan to learn more programming languages in the future.
  - 💡 I plan to learn more about PLT and compilers in the future.
- - 🌏 My blog is currently a WIP.
 
 ## Projects
  - [**airup**](https://github.com/sisungo/airup): Airup is a modern, portable and extremely fast implementation of service 
