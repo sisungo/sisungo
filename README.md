@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-Hi, I’m [@sisungo](https://github.com/sisungo)!
+Hi, I’m [@sisungo](https://github.com/sisungo)! You may call me "sisungo" or "渡鸦".
 
 I'm a first-year university undergraduate from China. Loving Open Source! ❤️
 
